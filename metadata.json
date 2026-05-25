@@ -1,0 +1,6 @@
+{
+  "name": "Shizuku Checker",
+  "description": "An elegant, interactive utility to check Shizuku status, ADB permissions, and get setup guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
